@@ -27,6 +27,7 @@ describe('Myntra shop flow',async()=>
         await browser.saveScreenshot("AddToCartMyntra.png")
         await browser.pause(3000)
         await myntraShop.pinAddress.click()
+        await browser.pause(3000)
 
     })
     
