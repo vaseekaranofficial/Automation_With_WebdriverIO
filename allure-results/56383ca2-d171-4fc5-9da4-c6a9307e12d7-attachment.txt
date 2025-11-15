@@ -1,0 +1,1 @@
+invalid session id: WebDriverError: invalid session id when running "element/f.8C32F760D1753934DFB2DFF9BEA4136E.d.17A59DA7AB3079B3F48234011E83E468.e.106/click" with method "POST"

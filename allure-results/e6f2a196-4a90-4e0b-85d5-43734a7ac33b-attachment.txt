@@ -1,0 +1,2 @@
+element click intercepted: WebDriverError: element click intercepted: Element <label for="fromCity">...</label> is not clickable at point (330, 287). Other element would receive the click: <span class="coachmark"></span>
+  (Session info: chrome=142.0.7444.134) when running "element/f.87E77DBC48B98173B0C66F563E7EC506.d.2C83327B966C704DB7FD534F0287D319.e.139/click" with method "POST"
